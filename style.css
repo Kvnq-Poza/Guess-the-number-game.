@@ -137,13 +137,11 @@ h1 {
   header h1 {
     grid-row: 3;
     line-height: 1.4;
-    /* margin-top: 2rem;
-    margin-bottom: 3rem; */
   }
 
   .between {
     grid-row: 2;
-    font-size: 1rem;
+    font-size: 0.7rem;
     margin-top: 2rem;
   }
 }
